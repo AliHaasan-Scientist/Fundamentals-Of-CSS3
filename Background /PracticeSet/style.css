@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.icons{
+    display: flex;
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0.877);
+    color:rgb(255, 255, 255);
+    height: 50px ;
+border-bottom: 10px solid rgba(13, 247, 215, 0.363);
+
+}
